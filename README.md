@@ -2,10 +2,10 @@
 
 Dan Ellis dpwe@google.com
 
-v1 2017-03-02
+v1 2017-03-06
 
 The file [ontology.json](ontology.json) contains the current definition of
-the [Audio Set](https://research.google.com/audioset/) ontology, a hierarchical
+the [AudioSet](https://research.google.com/audioset/) ontology, a hierarchical
 set of audio event classes.
 
 The json file describes a list of sound entity objects.  Each object contains
